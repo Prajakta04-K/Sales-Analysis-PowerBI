@@ -1,4 +1,4 @@
-🚀 Sales Analysis Power BI Project
+🚀 Sales Analysis Project
 
 📌 Project Overview
 This project focuses on analyzing sales performance to identify key trends, revenue drivers, and business opportunities.
