@@ -71,6 +71,6 @@ The project follows a structured analytics approach:
 - Ability to generate actionable insights  
 
 🔗 Live Project
-(Add your GitHub or Portfolio link here)
+https://github.com/Prajakta04-K/Sales-Analysis-PowerBI
 
 🔗 Portfolio
