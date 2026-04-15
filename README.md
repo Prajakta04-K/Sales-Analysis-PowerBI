@@ -7,7 +7,7 @@ This project focuses on analyzing sales performance to identify key trends, reve
 The objective was to:
 - Track overall sales performance (Revenue, Profit, Growth)
 - Analyze sales trends across time, regions, and products
-- Identify top-performing and underperforming areas
+- Identify top and bottom-performing products
 - Generate actionable business insights
 
 🧱 Dataset Overview
@@ -21,8 +21,8 @@ The dataset represents a retail sales environment with:
 - Revenue and profit analysis  
 - Monthly and yearly sales trends  
 - Region-wise performance  
-- Product category performance  
-- Customer segmentation (top vs low-value customers)  
+- Product Analysis: Top/Bottom 5 Products by Profit
+- Trend Analysis: Year-wise sales trends
 
 📈 Key Insights
 
@@ -56,7 +56,7 @@ The project follows a structured analytics approach:
 - SQL (Data extraction - optional)
 
 📊 Dashboard Preview
-(Add your Power BI dashboard screenshot here)
+[(Add your Power BI dashboard screenshot here)](https://github.com/Prajakta04-K/Sales-Analysis-PowerBI/blob/main/Screenshot%202026-04-10%20114057.png)
 
 📌 Business Recommendations
 - Focus marketing efforts on high-performing regions  
@@ -73,4 +73,3 @@ The project follows a structured analytics approach:
 🔗 Live Project
 https://github.com/Prajakta04-K/Sales-Analysis-PowerBI
 
-🔗 Portfolio
